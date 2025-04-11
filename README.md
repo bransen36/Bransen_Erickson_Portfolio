@@ -1,7 +1,6 @@
 # Bransen Erickson's Portfolio
 ## Budget Web App
-### Link:
-https://github.com/bransen36/Budget_Web_App.git
+### Link: https://github.com/bransen36/Budget_Web_App.git
 
 ## Category Based Hangman Game
 ### Link:
