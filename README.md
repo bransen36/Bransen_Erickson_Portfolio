@@ -4,19 +4,32 @@ Welcome to my project portfolio. This repository serves as a curated directory o
 Some projects appear in multiple categories if they involve more than one programming language—for example, full-stack applications with both frontend and backend components.
 
 Feel free to explore the links below to learn more about each project. Feedback, suggestions, and contributions are always welcome.
-
-
-## Python Based
-### Budget Web App
-#### Link: https://github.com/bransen36/Budget_Web_App.git
-
-### IP Subnet Calculator
-#### Link: https://github.com/bransen36/IP_Subnet_Calculator.git
-
-### Category Based Hangman Game
-#### Link: https://github.com/bransen36/Hangman_Game.git
 ***
 
-## C# Based
+## Python
+### Budget Web App
+#### 🔗 https://github.com/bransen36/Budget_Web_App.git
+
+### IP Subnet Calculator
+#### 🔗 https://github.com/bransen36/IP_Subnet_Calculator.git
+
+### Category Based Hangman Game
+#### 🔗 https://github.com/bransen36/Hangman_Game.git
+***
+
+## C#
 ### Learning Management System
-#### Link: https://github.com/bransen36/Learning_Management_System.git
+#### 🔗 https://github.com/bransen36/Learning_Management_System.git
+***
+
+## HTML
+### Budget Web App
+#### 🔗 https://github.com/bransen36/Budget_Web_App.git
+
+### Learning Management System
+#### 🔗 https://github.com/bransen36/Learning_Management_System.git
+***
+
+## SQL
+### Shopping Database
+#### 🔗 https://github.com/bransen36/Shopping_Database.git
