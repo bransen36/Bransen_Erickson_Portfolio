@@ -7,8 +7,8 @@ Feel free to explore the links below to learn more about each project. Feedback,
 ***
 
 ## Python
-### Budget Web App
-#### 🔗 https://github.com/bransen36/Budget_Web_App.git
+### To-Do List Web App
+#### 🔗 https://github.com/bransen36/Django_Internship_Project.git
 
 ### IP Subnet Calculator
 #### 🔗 https://github.com/bransen36/IP_Subnet_Calculator.git
@@ -23,8 +23,8 @@ Feel free to explore the links below to learn more about each project. Feedback,
 ***
 
 ## HTML
-### Budget Web App
-#### 🔗 https://github.com/bransen36/Budget_Web_App.git
+### To-Do List Web App
+#### 🔗 https://github.com/bransen36/Django_Internship_Project.git
 
 ### Learning Management System
 #### 🔗 https://github.com/bransen36/Learning_Management_System.git
