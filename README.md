@@ -10,6 +10,9 @@ Feel free to explore the links below to learn more about each project. Feedback,
 ### To-Do List Web App
 #### 🔗 https://github.com/bransen36/Django_Internship_Project.git
 
+### RESTful API
+#### 🔗 https://github.com/bransen36/REST_API_Project.git
+
 ### IP Subnet Calculator
 #### 🔗 https://github.com/bransen36/IP_Subnet_Calculator.git
 
